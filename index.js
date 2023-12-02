@@ -1,1 +1,1 @@
-console.log('hello world');
+document.getElementById('header').innerHTML = 'HEADER';
